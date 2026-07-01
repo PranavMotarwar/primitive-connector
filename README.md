@@ -4,7 +4,6 @@ A small, runnable connector framework for learning the concepts in *Part 2 — D
 connectors*. The whole point: **cross-cutting concerns live once in the framework
 and are inherited; each source adapter only describes what's unique.**
 
-Pure Python stdlib — no pip installs, no cloud accounts.
 
 ## Quickstart
 
